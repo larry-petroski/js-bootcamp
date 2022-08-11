@@ -1,0 +1,15 @@
+{
+  "name": "js-bootcamp",
+  "version": "1.0.0",
+  "description": "JavaScript BootCamp Course",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "\"javascript",
+    "tutorial\""
+  ],
+  "author": "Larry Petroski",
+  "license": "ISC"
+}
